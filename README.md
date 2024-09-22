@@ -9,7 +9,7 @@
 <br>To install RDKit, please follow the instructions here http://www.rdkit.org/docs/Install.html</br>
 ## Train RGCN
 
-Train the RGCN by running:
+<br>Train the RGCN by running:</br>
         cd rgcn
         python data_preprocess.py
         python train_rgcn.py
