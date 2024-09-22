@@ -8,7 +8,7 @@ Requirements
     3.rdkit 2020.09.1
     4.pandas 1.5.3
     5.numpy 1.24.3
-To install RDKit, please follow the instructions here http://www.rdkit.org/docs/Install.html
+<br>To install RDKit, please follow the instructions here http://www.rdkit.org/docs/Install.html</br>
 Train RGCN
 ---
 
