@@ -15,7 +15,8 @@
         python data_preprocess.py
         python train_rgcn.py
 ## Generate conterfactuals:
-To generate counterfactual explanations for a specific sample, run:
+<br>To generate counterfactual explanations for a specific sample, run:</br>
+
         python train.py
         python fs_modify.py
 
