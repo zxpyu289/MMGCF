@@ -10,6 +10,7 @@
 ## Train RGCN
 
 <br>Train the RGCN by running:</br>
+
         cd rgcn
         python data_preprocess.py
         python train_rgcn.py
